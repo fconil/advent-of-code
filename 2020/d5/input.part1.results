@@ -1,0 +1,6 @@
+# BFFFBBFRRR: row 70, column 7, seat ID 567
+seat_filter = "BFFFBBFRRR"
+# FFFBBBFRRR: row 14, column 7, seat ID 119
+seat_filter = "FFFBBBFRRR"
+# BBFFBBFRLL: row 102, column 4, seat ID 820
+seat_filter = "BBFFBBFRLL"
